@@ -44,8 +44,6 @@
 			{/each}
 		</ul>
 	</section>
-
-	<a href="/graphiql">go to GraphQL IDE</a>
 </div>
 
 <style>
